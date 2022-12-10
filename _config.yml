@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "권 순 웅"
-resume_title:                   "천천히 하지만 확실하게 나아가는"
+resume_title:                   "노력하는 초보 개발자"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "senskwonsw@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "senskwonsw@gmail.com"
 resume_header_contact_info:     "Seoul, Korea • 010-8781-2013 • senskwonsw@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>인트로 작성</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,7 +45,7 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/senskwon/template-as-if"
+  resume_github_url:            "https://senskwon.github.io/"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:            "https://www.facebook.com/profile.php?id=100009229307068"

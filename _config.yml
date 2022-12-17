@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "권 순 웅"
-resume_title:                   "노력하는 초보 개발자"
+resume_title:                   "열심히 공부하는 초보 개발자"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "senskwonsw@gmail.com"
@@ -23,7 +23,8 @@ resume_contact_address:         "senskwonsw@gmail.com"
 resume_header_contact_info:     "Seoul, Korea • 010-8781-2013 • senskwonsw@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>인트로 작성</p>"
+resume_header_intro: "<p>프로그래밍에 흥미를 가지고 대학에 입학하여 열심히 공부하고 있는 개발 꿈나무입니다.<br>
+아직 많이 부족한 부분이 있지만 열심히 공부해서 탄탄한 기본기를 가진 프로그래머가 되는 것이 목표입니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

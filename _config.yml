@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "권 순 웅"
 resume_title:                   "열심히 공부하는 개발 꿈나무"
 

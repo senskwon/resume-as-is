@@ -3,6 +3,9 @@
 - skill: C/C#
   description: C와 C#에 관한 기본적인 지식을 지니고 있습니다.<br>
                아직 많이 부족해 꾸준히 공부 중입니다.
+- skill: html
+  description: 웹프로그래밍 과목을 통해 html을 사용하여 웹페이지 작성하는 것에 대해 흥미를 가지게 되었습니다. 
+  아직 기초 부분만을 배웠기에 많이 알지는 못하지만 열심히 공부 중입니다.
 # Communications strategy
 #- skill: Python
 #  description:
